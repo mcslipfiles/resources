@@ -164,6 +164,7 @@
 <Contents><Key>newsound/random/pop.ogg</Key><LastModified>1637612137</LastModified><Size>4193</Size><Signature>8f45b5faf6dfae2065846d26612f7552b73640dd</Signature></Contents>
 <Contents><Key>newsound/random/splash.ogg</Key><LastModified>1637612137</LastModified><Size>11333</Size><Signature>22a491f266f5c3cdd6e669a9493daaf40c9c8575</Signature></Contents>
 <Contents><Key>newsound/random/wood click.ogg</Key><LastModified>1637612137</LastModified><Size>4385</Size><Signature>b210a3c371441b77fe873133b2cb7b63e367b2f3</Signature></Contents>
+<Contents><Key>newsound/random/intro.ogg</Key><LastModified>1637612134</LastModified><Size>26384</Size><Signature>0000000000000000000000000000000000000001</Signature></Contents>
 <Contents><Key>newsound/step/cloth1.ogg</Key><LastModified>1637612137</LastModified><Size>4832</Size><Signature>5fd568d724ba7d53911b6cccf5636f859d2662e8</Signature></Contents>
 <Contents><Key>newsound/step/cloth2.ogg</Key><LastModified>1637612137</LastModified><Size>4862</Size><Signature>56c1d0ac0de2265018b2c41cb571cc6631101484</Signature></Contents>
 <Contents><Key>newsound/step/cloth3.ogg</Key><LastModified>1637612137</LastModified><Size>4897</Size><Signature>9c63f2a3681832dc32d206f6830360bfe94b5bfc</Signature></Contents>
@@ -234,5 +235,4 @@
 <Contents><Key>streaming/strad.mus</Key><LastModified>1637612140</LastModified><Size>1558180</Size><Signature>bcadae10578ff321236f5670934f0b287eb80fbc</Signature></Contents>
 <Contents><Key>streaming/ward.mus</Key><LastModified>1637612140</LastModified><Size>1987588</Size><Signature>b245effde68d07ffe32a033b61e96f1ed7e28783</Signature></Contents>
 <Contents><Key>streaming/12.ogg</Key><LastModified>1637612134</LastModified><Size>26384</Size><Signature>0000000000000000000000000000000000000001</Signature></Contents>
-<Contents><Key>sound/random/intro.ogg</Key><LastModified>1637612134</LastModified><Size>26384</Size><Signature>0000000000000000000000000000000000000001</Signature></Contents>
 </MCSLIPResources>
